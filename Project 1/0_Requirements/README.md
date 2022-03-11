@@ -64,7 +64,7 @@ It is an Keyless Remote used to lock and unlock the doors.
 ## When:
 It can be available when you are in the range of the car signal.
 ## Who :
-It is useful for everyone.
+It is useful for customers or owners.
 ## Where:
 It is used mainly in cars.
 
