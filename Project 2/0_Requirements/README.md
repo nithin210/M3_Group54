@@ -47,7 +47,7 @@
 ## WHAT:
 The BiCom system is the advancement of unidirectional RKE to bidirectional RKE system.
 ## Who :
-It is used by customers or woners.
+It is used by customers or owners.
 ## Where:
 It is used everywhere where features are available .
 ## When:
