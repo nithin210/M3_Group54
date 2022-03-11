@@ -42,3 +42,16 @@
      • Could be hacked.
      • Failure of Machine/Remote
      • Key fob cloning.
+     
+# 4W'S and 1H:
+## WHAT:
+The BiCom system is the advancement of unidirectional RKE to bidirectional RKE system.
+## Who :
+It is used by customers or woners.
+## Where:
+It is used everywhere where features are available .
+## When:
+It can be available when you are in the range of the car signal.
+
+## How:
+It can be used simply by pressing the button
