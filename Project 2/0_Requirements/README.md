@@ -23,6 +23,22 @@
 | LLR | Description | HLR |
 |--|--|--|
 | LR01 |All led on at the same time | HR01|
-| LR02 | All led off at the same time | HR01|
+| LR02 | All led off at the same time | HR02|
 |LR03 | All led on in clockwise manner | HR03|
-|LR04 |  All led on in Anticlockwise manner | HR03|
+|LR04 |  All led on in Anticlockwise manner | HR04|
+
+# Swot Analysis:
+## Strengths:
+    • Optimum  Convenience and Security
+    • No need of human interaction
+    
+## Weakness:
+     • Security is improving, but some systems have been susceptible to hacking and cars have been stolen this way.
+     • If we lost the Remote it will take great effort to make one and lose of time
+## opurtunities:
+     • Increase in growth of automobile industries.
+     • Financial scenery around the globe and positive deals position raised interest of the part.
+## Threats:
+     • Could be hacked.
+     • Failure of Machine/Remote
+     • Key fob cloning.
