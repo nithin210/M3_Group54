@@ -49,7 +49,7 @@
  ## Weakness:
     • Security is improving, but some systems have been susceptible to hacking and cars have been stolen this way.
     • If we lost the Remote it will take great effort to make one and lose of time
- ## Opurtunities:
+ ## Opportunities:
     • Deals increment of worldwide auto deals industry has activated car keyless passage frameworks advertise.
     • Financial scenery around the globe and positive deals position raised interest of the part.
  ## Threats:
@@ -59,7 +59,7 @@
      
 # 4 W's and 1 H:
      
-## WHAT:
+## What:
 It is an Keyless Remote used to lock and unlock the doors.
 ## When:
 It can be available when you are in the range of the car signal.
@@ -67,6 +67,5 @@ It can be available when you are in the range of the car signal.
 It is useful for customers or owners.
 ## Where:
 It is used mainly in cars.
-
 ## How:
 It is useful for lock and unlock the door by pressing the button on remote
