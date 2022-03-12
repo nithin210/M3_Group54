@@ -61,6 +61,14 @@ It is used mainly in cars.
 ## How:
 It is useful for lock and unlock the door by pressing the button on remote
 
+# Diagram
+
+## FlowChart
+![Flow Chart](https://github.com/nithin210/M3_Group54/blob/d7f590c53f8dbd962beb32620055df2fb489c5e9/Project%201/5_Report/Flow%20Chart.png)
+
+##Structural Diagram
+![Structural]()
+
 # Applications:
      • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
        to check whether they properly locked the car doors and windows.
