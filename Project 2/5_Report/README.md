@@ -62,3 +62,10 @@ It can be available when you are in the range of the car signal.
 ## How:
 It can be used simply by pressing the button
 
+# Diagram
+
+## FlowChart
+![Flow Chart](https://github.com/nithin210/M3_Group54/blob/c42b172e7c160bb5f810c8dcaf2850681ff2ebcc/Project%202/5_Report/Flow%20Chart.png)
+
+## Structural Diagram
+![Structural]()
