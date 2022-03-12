@@ -31,15 +31,6 @@
 |LR03 | It shall provide wireless alarm activation system | HR03|
 |LR04 | It shall provide wireless alarm deactivation system  | HR03|
 
-# Applications:
-     • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
-       to check whether they properly locked the car doors and windows.
-     • Remote keyless entry systems will provide car owners with a degree of convenience while making the task of 
-       physically inserting a key unnecessary.
-     • A passive keyless entry system uses advanced technology to take vehicle accessibility to a higher level.
-     • By using the Bi-directional communication it can prevent possible outcomes of stoping the car thief.
-     • The Key fob system provided another level of security to the Remote Keyless entry system. 
-
 # Swot Analysis:
 
 ## Strengths:
@@ -69,3 +60,12 @@ It is useful for customers or owners.
 It is used mainly in cars.
 ## How:
 It is useful for lock and unlock the door by pressing the button on remote
+
+# Applications:
+     • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
+       to check whether they properly locked the car doors and windows.
+     • Remote keyless entry systems will provide car owners with a degree of convenience while making the task of 
+       physically inserting a key unnecessary.
+     • A passive keyless entry system uses advanced technology to take vehicle accessibility to a higher level.
+     • By using the Bi-directional communication it can prevent possible outcomes of stoping the car thief.
+     • The Key fob system provided another level of security to the Remote Keyless entry system. 
