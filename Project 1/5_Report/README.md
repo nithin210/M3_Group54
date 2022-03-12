@@ -67,7 +67,7 @@ It is useful for lock and unlock the door by pressing the button on remote
 ![Flow Chart](https://github.com/nithin210/M3_Group54/blob/d7f590c53f8dbd962beb32620055df2fb489c5e9/Project%201/5_Report/Flow%20Chart.png)
 
 ##Structural Diagram
-![Structural]()
+![Structural](https://github.com/nithin210/M3_Group54/blob/0139df3b820883868deeea2c24b72d487b5d074f/Project%201/5_Report/Structural.png)
 
 # Applications:
      • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
