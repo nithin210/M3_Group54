@@ -68,4 +68,4 @@ It can be used simply by pressing the button
 ![Flow Chart](https://github.com/nithin210/M3_Group54/blob/c42b172e7c160bb5f810c8dcaf2850681ff2ebcc/Project%202/5_Report/Flow%20Chart.png)
 
 ## Structural Diagram
-![Structural]()
+![Structural](https://github.com/nithin210/M3_Group54/blob/3b1df0809c4742f2c7248c965c76e80835cb42fe/Project%202/5_Report/Structural.png)
